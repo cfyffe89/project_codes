@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "code": "A1B2C3",
+      "name": "Chemistry Experiment",
+      "friendly_name": "A1B2C3 - Chemistry Experiment"
+    },
+    {
+      "code": "X9Y8Z7",
+      "name": "Bioloogy Experiment",
+      "friendly_name": "X9Y8Z7 - Bioloogy Experiment"
+    },
+    {
+      "code": "M5N6O7",
+      "name": "Food Science Experiment",
+      "friendly_name": "M5N6O7 - Food Science Experiment"
+    }
+  ]
+}
